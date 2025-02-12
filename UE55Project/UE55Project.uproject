@@ -2,20 +2,13 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.5",
 	"Category": "",
-	"Description": "",
+	"Description": "Demonstration of processing movie shots using the Face Depth Frame Mancer Unreal Engine Plugin.",
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
-			]
-		},
-		{
-			"Name": "FDFMancer",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
 			]
 		},
 		{
